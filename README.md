@@ -9,5 +9,11 @@ This website is designed on Python's django framework and the database which is 
 	  -Search listings by keyword, city, state, price, bedroom etc.
 	  -List realtors on about page with "Seller of the month"(Control via admin).
 	  -Ability to set listings to unpublished.
-	  -Form information nitifies the realtor(s) through email.
+	  -Form information notifies the realtor(s) through email.
 	  -Listings page have a form to submit inquiry for that property listing. 
+	  -Display listings in app with pagination.
+	  -Listing page should have 5 images with lightbox.
+	  -Lightbox should scroll through images.
+	  -Frontend register/login to track inquiries.
+	  
+	 
